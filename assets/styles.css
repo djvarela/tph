@@ -541,10 +541,6 @@ a.cotiza-nav:hover {
     font-size: 0.8rem;
 }
 
-.prepaga-body .btn-outline-full {
-    margin-top: auto;
-    /* Empuja el botón al fondo si las tarjetas tienen distinto alto */
-}
 
 /* --- COLORES CABECERAS PREPAGAS --- */
 .avalian .prepaga-header {
